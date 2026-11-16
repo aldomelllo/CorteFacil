@@ -1,0 +1,6 @@
+{
+  "name": "CorteFácil — Cortes Automáticos com Legendas",
+  "description": "Plataforma simples e inteligente para transformar vídeos longos em cortes curtos verticais e cortes horizontais longos com legendas dinâmicas e nomeação automática pela head.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
